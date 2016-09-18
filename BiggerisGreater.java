@@ -12,7 +12,7 @@ public class BiggerisGreater {
 
 		int tc = sc.nextInt();
 		for (int t = 0; t < tc; t++) {
-			
+			//This is for local Test
 			char[] input=sc.next().toCharArray();
 			int firstMark=input.length-1;
 			
